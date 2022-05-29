@@ -9,7 +9,7 @@ known_firstparty = ["core", "movies"]
 known_django = ["django", "rest_framework", "rest_framework_simplejwt", "dal", "corsheaders",
                 "dbsettings", "environ", "django_extensions", "django_filters", "prettyjson",
                 "drf_multiple_model", "rest_framework_swagger", "rest_framework_constant",
-                "rest_framework_xml", "fcm_django"]
+                "rest_framework_xml", "fcm_django", "drf_yasg"]
 sections = ["FUTURE", "STDLIB", "THIRDPARTY", "DJANGO", "FIRSTPARTY", "LOCALFOLDER"]
 line_length = 88
 group_by_package = true
